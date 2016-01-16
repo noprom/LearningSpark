@@ -1,11 +1,11 @@
-package machine.learning.`with`.spark
+package learningspark.rdd
 
 import org.apache.spark.SparkContext
 
 /**
- * Created by noprom on 12/14/15.
+ * Created by noprom on 1/16/16.
  */
-object ScalaApp {
+object Filter {
 
   /**
    * 主函数
